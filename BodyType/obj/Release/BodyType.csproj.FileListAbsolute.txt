@@ -1,0 +1,262 @@
+d:\Documents\Visual Studio 2015\Projects\BodyType\BodyType\bin\Release\BodyType.exe.config
+d:\Documents\Visual Studio 2015\Projects\BodyType\BodyType\bin\Release\BodyType.exe
+d:\Documents\Visual Studio 2015\Projects\BodyType\BodyType\bin\Release\BodyType.pdb
+d:\Documents\Visual Studio 2015\Projects\BodyType\BodyType\obj\Release\BodyType.csprojResolveAssemblyReference.cache
+d:\Documents\Visual Studio 2015\Projects\BodyType\BodyType\obj\Release\BodyType.MainForm.resources
+d:\Documents\Visual Studio 2015\Projects\BodyType\BodyType\obj\Release\BodyType.Properties.Resources.resources
+d:\Documents\Visual Studio 2015\Projects\BodyType\BodyType\obj\Release\BodyType.csproj.GenerateResource.Cache
+d:\Documents\Visual Studio 2015\Projects\BodyType\BodyType\obj\Release\BodyType.exe
+d:\Documents\Visual Studio 2015\Projects\BodyType\BodyType\obj\Release\BodyType.pdb
+d:\Documents\Visual Studio 2015\Projects\BodyType\BodyType\bin\Release\ZedGraph.dll
+d:\Documents\Visual Studio 2015\Projects\BodyType\BodyType\bin\Release\ZedGraph.xml
+d:\Documents\Visual Studio 2015\Projects\BodyType\BodyType\bin\Release\de\ZedGraph.resources.dll
+d:\Documents\Visual Studio 2015\Projects\BodyType\BodyType\bin\Release\es\ZedGraph.resources.dll
+d:\Documents\Visual Studio 2015\Projects\BodyType\BodyType\bin\Release\fr\ZedGraph.resources.dll
+d:\Documents\Visual Studio 2015\Projects\BodyType\BodyType\bin\Release\hu\ZedGraph.resources.dll
+d:\Documents\Visual Studio 2015\Projects\BodyType\BodyType\bin\Release\it\ZedGraph.resources.dll
+d:\Documents\Visual Studio 2015\Projects\BodyType\BodyType\bin\Release\ja\ZedGraph.resources.dll
+d:\Documents\Visual Studio 2015\Projects\BodyType\BodyType\bin\Release\pt\ZedGraph.resources.dll
+d:\Documents\Visual Studio 2015\Projects\BodyType\BodyType\bin\Release\ru\ZedGraph.resources.dll
+d:\Documents\Visual Studio 2015\Projects\BodyType\BodyType\bin\Release\sk\ZedGraph.resources.dll
+d:\Documents\Visual Studio 2015\Projects\BodyType\BodyType\bin\Release\sv\ZedGraph.resources.dll
+d:\Documents\Visual Studio 2015\Projects\BodyType\BodyType\bin\Release\tr\ZedGraph.resources.dll
+d:\Documents\Visual Studio 2015\Projects\BodyType\BodyType\bin\Release\zh-cn\ZedGraph.resources.dll
+d:\Documents\Visual Studio 2015\Projects\BodyType\BodyType\bin\Release\zh-tw\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)\BodyType\bin\Release\BodyType.exe.config
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)\BodyType\obj\Release\BodyType.exe
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)\BodyType\obj\Release\BodyType.pdb
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)\BodyType\bin\Release\BodyType.exe
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)\BodyType\bin\Release\BodyType.pdb
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)\BodyType\bin\Release\ZedGraph.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)\BodyType\bin\Release\ZedGraph.xml
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)\BodyType\bin\Release\de\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)\BodyType\bin\Release\es\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)\BodyType\bin\Release\fr\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)\BodyType\bin\Release\hu\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)\BodyType\bin\Release\it\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)\BodyType\bin\Release\ja\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)\BodyType\bin\Release\pt\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)\BodyType\bin\Release\ru\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)\BodyType\bin\Release\sk\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)\BodyType\bin\Release\sv\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)\BodyType\bin\Release\tr\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)\BodyType\bin\Release\zh-cn\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)\BodyType\bin\Release\zh-tw\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)\BodyType\obj\Release\BodyType.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)\BodyType\obj\Release\BodyType.MainForm.resources
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)\BodyType\obj\Release\BodyType.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)\BodyType\obj\Release\BodyType.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(완성에서 통신속도 개선)\BodyType\bin\Release\BodyType.exe.config
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(완성에서 통신속도 개선)\BodyType\obj\Release\BodyType.exe
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(완성에서 통신속도 개선)\BodyType\obj\Release\BodyType.pdb
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(완성에서 통신속도 개선)\BodyType\bin\Release\BodyType.exe
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(완성에서 통신속도 개선)\BodyType\bin\Release\BodyType.pdb
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(완성에서 통신속도 개선)\BodyType\bin\Release\ZedGraph.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(완성에서 통신속도 개선)\BodyType\bin\Release\ZedGraph.xml
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(완성에서 통신속도 개선)\BodyType\bin\Release\de\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(완성에서 통신속도 개선)\BodyType\bin\Release\es\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(완성에서 통신속도 개선)\BodyType\bin\Release\fr\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(완성에서 통신속도 개선)\BodyType\bin\Release\hu\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(완성에서 통신속도 개선)\BodyType\bin\Release\it\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(완성에서 통신속도 개선)\BodyType\bin\Release\ja\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(완성에서 통신속도 개선)\BodyType\bin\Release\pt\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(완성에서 통신속도 개선)\BodyType\bin\Release\ru\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(완성에서 통신속도 개선)\BodyType\bin\Release\sk\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(완성에서 통신속도 개선)\BodyType\bin\Release\sv\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(완성에서 통신속도 개선)\BodyType\bin\Release\tr\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(완성에서 통신속도 개선)\BodyType\bin\Release\zh-cn\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(완성에서 통신속도 개선)\BodyType\bin\Release\zh-tw\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(완성에서 통신속도 개선)\BodyType\obj\Release\BodyType.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(완성에서 통신속도 개선)\BodyType\obj\Release\BodyType.MainForm.resources
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(완성에서 통신속도 개선)\BodyType\obj\Release\BodyType.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(완성에서 통신속도 개선)\BodyType\obj\Release\BodyType.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(완성에서 통신속도 개선 ver2)\BodyType\bin\Release\BodyType.exe.config
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(완성에서 통신속도 개선 ver2)\BodyType\obj\Release\BodyType.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(완성에서 통신속도 개선 ver2)\BodyType\obj\Release\BodyType.HistForm.resources
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(완성에서 통신속도 개선 ver2)\BodyType\obj\Release\BodyType.MainForm.resources
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(완성에서 통신속도 개선 ver2)\BodyType\obj\Release\BodyType.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(완성에서 통신속도 개선 ver2)\BodyType\obj\Release\BodyType.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(완성에서 통신속도 개선 ver2)\BodyType\bin\Release\BodyType.exe
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(완성에서 통신속도 개선 ver2)\BodyType\bin\Release\BodyType.pdb
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(완성에서 통신속도 개선 ver2)\BodyType\bin\Release\ZedGraph.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(완성에서 통신속도 개선 ver2)\BodyType\bin\Release\ZedGraph.xml
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(완성에서 통신속도 개선 ver2)\BodyType\bin\Release\de\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(완성에서 통신속도 개선 ver2)\BodyType\bin\Release\es\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(완성에서 통신속도 개선 ver2)\BodyType\bin\Release\fr\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(완성에서 통신속도 개선 ver2)\BodyType\bin\Release\hu\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(완성에서 통신속도 개선 ver2)\BodyType\bin\Release\it\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(완성에서 통신속도 개선 ver2)\BodyType\bin\Release\ja\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(완성에서 통신속도 개선 ver2)\BodyType\bin\Release\pt\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(완성에서 통신속도 개선 ver2)\BodyType\bin\Release\ru\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(완성에서 통신속도 개선 ver2)\BodyType\bin\Release\sk\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(완성에서 통신속도 개선 ver2)\BodyType\bin\Release\sv\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(완성에서 통신속도 개선 ver2)\BodyType\bin\Release\tr\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(완성에서 통신속도 개선 ver2)\BodyType\bin\Release\zh-cn\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(완성에서 통신속도 개선 ver2)\BodyType\bin\Release\zh-tw\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(완성에서 통신속도 개선 ver2)\BodyType\obj\Release\BodyType.exe
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(완성에서 통신속도 개선 ver2)\BodyType\obj\Release\BodyType.pdb
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(HIST 기능추가 ver3)\BodyType\bin\Release\BodyType.exe.config
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(HIST 기능추가 ver3)\BodyType\obj\Release\BodyType.exe
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(HIST 기능추가 ver3)\BodyType\obj\Release\BodyType.pdb
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(HIST 기능추가 ver3)\BodyType\bin\Release\BodyType.exe
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(HIST 기능추가 ver3)\BodyType\bin\Release\BodyType.pdb
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(HIST 기능추가 ver3)\BodyType\bin\Release\ZedGraph.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(HIST 기능추가 ver3)\BodyType\bin\Release\ZedGraph.xml
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(HIST 기능추가 ver3)\BodyType\bin\Release\de\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(HIST 기능추가 ver3)\BodyType\bin\Release\es\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(HIST 기능추가 ver3)\BodyType\bin\Release\fr\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(HIST 기능추가 ver3)\BodyType\bin\Release\hu\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(HIST 기능추가 ver3)\BodyType\bin\Release\it\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(HIST 기능추가 ver3)\BodyType\bin\Release\ja\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(HIST 기능추가 ver3)\BodyType\bin\Release\pt\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(HIST 기능추가 ver3)\BodyType\bin\Release\ru\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(HIST 기능추가 ver3)\BodyType\bin\Release\sk\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(HIST 기능추가 ver3)\BodyType\bin\Release\sv\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(HIST 기능추가 ver3)\BodyType\bin\Release\tr\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(HIST 기능추가 ver3)\BodyType\bin\Release\zh-cn\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(HIST 기능추가 ver3)\BodyType\bin\Release\zh-tw\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(HIST 기능추가 ver3)\BodyType\obj\Release\BodyType.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(HIST 기능추가 ver3)\BodyType\obj\Release\BodyType.HistForm.resources
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(HIST 기능추가 ver3)\BodyType\obj\Release\BodyType.MainForm.resources
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(HIST 기능추가 ver3)\BodyType\obj\Release\BodyType.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(HIST 기능추가 ver3)\BodyType\obj\Release\BodyType.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(완성) (2)\BodyType\bin\Release\BodyType.exe.config
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(완성) (2)\BodyType\obj\Release\BodyType.exe
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(완성) (2)\BodyType\obj\Release\BodyType.pdb
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(완성) (2)\BodyType\bin\Release\BodyType.exe
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(완성) (2)\BodyType\bin\Release\BodyType.pdb
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(완성) (2)\BodyType\bin\Release\ZedGraph.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(완성) (2)\BodyType\bin\Release\ZedGraph.xml
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(완성) (2)\BodyType\bin\Release\de\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(완성) (2)\BodyType\bin\Release\es\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(완성) (2)\BodyType\bin\Release\fr\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(완성) (2)\BodyType\bin\Release\hu\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(완성) (2)\BodyType\bin\Release\it\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(완성) (2)\BodyType\bin\Release\ja\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(완성) (2)\BodyType\bin\Release\pt\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(완성) (2)\BodyType\bin\Release\ru\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(완성) (2)\BodyType\bin\Release\sk\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(완성) (2)\BodyType\bin\Release\sv\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(완성) (2)\BodyType\bin\Release\tr\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(완성) (2)\BodyType\bin\Release\zh-cn\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(완성) (2)\BodyType\bin\Release\zh-tw\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(완성) (2)\BodyType\obj\Release\BodyType.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(완성) (2)\BodyType\obj\Release\BodyType.HistForm.resources
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(완성) (2)\BodyType\obj\Release\BodyType.MainForm.resources
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(완성) (2)\BodyType\obj\Release\BodyType.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(완성) (2)\BodyType\obj\Release\BodyType.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(완성) (2)\BodyType\bin\Release\InTheHand.Net.Personal.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(완성) (2)\BodyType\bin\Release\InTheHand.Net.Personal.xml
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(블루투스 완성)\BodyType\bin\Release\BodyType.exe.config
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(블루투스 완성)\BodyType\bin\Release\BodyType.exe
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(블루투스 완성)\BodyType\bin\Release\BodyType.pdb
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(블루투스 완성)\BodyType\bin\Release\InTheHand.Net.Personal.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(블루투스 완성)\BodyType\bin\Release\ZedGraph.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(블루투스 완성)\BodyType\bin\Release\InTheHand.Net.Personal.xml
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(블루투스 완성)\BodyType\bin\Release\ZedGraph.xml
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(블루투스 완성)\BodyType\bin\Release\de\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(블루투스 완성)\BodyType\bin\Release\es\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(블루투스 완성)\BodyType\bin\Release\fr\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(블루투스 완성)\BodyType\bin\Release\hu\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(블루투스 완성)\BodyType\bin\Release\it\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(블루투스 완성)\BodyType\bin\Release\ja\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(블루투스 완성)\BodyType\bin\Release\pt\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(블루투스 완성)\BodyType\bin\Release\ru\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(블루투스 완성)\BodyType\bin\Release\sk\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(블루투스 완성)\BodyType\bin\Release\sv\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(블루투스 완성)\BodyType\bin\Release\tr\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(블루투스 완성)\BodyType\bin\Release\zh-cn\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(블루투스 완성)\BodyType\bin\Release\zh-tw\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(블루투스 완성)\BodyType\obj\Release\BodyType.HistForm.resources
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(블루투스 완성)\BodyType\obj\Release\BodyType.MainForm.resources
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(블루투스 완성)\BodyType\obj\Release\BodyType.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(블루투스 완성)\BodyType\obj\Release\BodyType.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(블루투스 완성)\BodyType\obj\Release\BodyType.exe
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(블루투스 완성)\BodyType\obj\Release\BodyType.pdb
+D:\Documents\Visual Studio 2015\Projects\BodyType(surface)_백업(블루투스 완성)\BodyType\obj\Release\BodyType.csprojResolveAssemblyReference.cache
+D:\정수호\수상st\project\발판코드\BodyType_백업(spot 추가)_1114\BodyType\bin\Release\BodyType.exe.config
+D:\정수호\수상st\project\발판코드\BodyType_백업(spot 추가)_1114\BodyType\obj\Release\BodyType.exe
+D:\정수호\수상st\project\발판코드\BodyType_백업(spot 추가)_1114\BodyType\obj\Release\BodyType.pdb
+D:\정수호\수상st\project\발판코드\BodyType_171208\BodyType\bin\Release\BodyType.exe.config
+D:\정수호\수상st\project\발판코드\BodyType_171208\BodyType\obj\Release\BodyType.exe
+D:\정수호\수상st\project\발판코드\BodyType_171208\BodyType\obj\Release\BodyType.pdb
+D:\정수호\수상st\project\발판코드\BodyType_171208\BodyType\bin\Release\BodyType.exe
+D:\정수호\수상st\project\발판코드\BodyType_171208\BodyType\bin\Release\BodyType.pdb
+D:\정수호\수상st\project\발판코드\BodyType_171208\BodyType\bin\Release\InTheHand.Net.Personal.dll
+D:\정수호\수상st\project\발판코드\BodyType_171208\BodyType\bin\Release\InTheHand.Net.Personal.xml
+D:\정수호\수상st\project\발판코드\BodyType_171208\BodyType\bin\Release\ZedGraph.xml
+D:\정수호\수상st\project\발판코드\BodyType_171208\BodyType\bin\Release\de\ZedGraph.resources.dll
+D:\정수호\수상st\project\발판코드\BodyType_171208\BodyType\bin\Release\es\ZedGraph.resources.dll
+D:\정수호\수상st\project\발판코드\BodyType_171208\BodyType\bin\Release\fr\ZedGraph.resources.dll
+D:\정수호\수상st\project\발판코드\BodyType_171208\BodyType\bin\Release\hu\ZedGraph.resources.dll
+D:\정수호\수상st\project\발판코드\BodyType_171208\BodyType\bin\Release\it\ZedGraph.resources.dll
+D:\정수호\수상st\project\발판코드\BodyType_171208\BodyType\bin\Release\ja\ZedGraph.resources.dll
+D:\정수호\수상st\project\발판코드\BodyType_171208\BodyType\bin\Release\pt\ZedGraph.resources.dll
+D:\정수호\수상st\project\발판코드\BodyType_171208\BodyType\bin\Release\ru\ZedGraph.resources.dll
+D:\정수호\수상st\project\발판코드\BodyType_171208\BodyType\bin\Release\sk\ZedGraph.resources.dll
+D:\정수호\수상st\project\발판코드\BodyType_171208\BodyType\bin\Release\sv\ZedGraph.resources.dll
+D:\정수호\수상st\project\발판코드\BodyType_171208\BodyType\bin\Release\tr\ZedGraph.resources.dll
+D:\정수호\수상st\project\발판코드\BodyType_171208\BodyType\bin\Release\zh-cn\ZedGraph.resources.dll
+D:\정수호\수상st\project\발판코드\BodyType_171208\BodyType\bin\Release\zh-tw\ZedGraph.resources.dll
+D:\정수호\수상st\project\발판코드\BodyType_171208\BodyType\obj\Release\BodyType.csprojResolveAssemblyReference.cache
+D:\정수호\수상st\project\발판코드\BodyType_171208\BodyType\obj\Release\BodyType.HistForm.resources
+D:\정수호\수상st\project\발판코드\BodyType_171208\BodyType\obj\Release\BodyType.MainForm.resources
+D:\정수호\수상st\project\발판코드\BodyType_171208\BodyType\obj\Release\BodyType.Properties.Resources.resources
+D:\정수호\수상st\project\발판코드\BodyType_171208\BodyType\obj\Release\BodyType.csproj.GenerateResource.Cache
+D:\project\발판코드\BodyType_171208\BodyType\bin\Release\BodyType.exe.config
+D:\project\발판코드\BodyType_171208\BodyType\obj\Release\BodyType.exe
+D:\project\발판코드\BodyType_171208\BodyType\obj\Release\BodyType.pdb
+D:\project\발판\BodyType_171208\BodyType\bin\Release\BodyType.exe.config
+D:\project\발판\BodyType_171208\BodyType\obj\Release\BodyType.exe
+D:\project\발판\BodyType_171208\BodyType\obj\Release\BodyType.pdb
+D:\project\재활의학 발판\BodyType_171208\BodyType\bin\Release\BodyType.exe.config
+D:\project\재활의학 발판\BodyType_171208\BodyType\obj\Release\BodyType.exe
+D:\project\재활의학 발판\BodyType_171208\BodyType\obj\Release\BodyType.pdb
+D:\project\재활의학 발판\BodyType_171208\BodyType\bin\Release\BodyType.exe
+D:\project\재활의학 발판\BodyType_171208\BodyType\bin\Release\BodyType.pdb
+D:\project\재활의학 발판\BodyType_171208\BodyType\bin\Release\InTheHand.Net.Personal.dll
+D:\project\재활의학 발판\BodyType_171208\BodyType\bin\Release\InTheHand.Net.Personal.xml
+D:\project\재활의학 발판\BodyType_171208\BodyType\bin\Release\ZedGraph.xml
+D:\project\재활의학 발판\BodyType_171208\BodyType\bin\Release\de\ZedGraph.resources.dll
+D:\project\재활의학 발판\BodyType_171208\BodyType\bin\Release\es\ZedGraph.resources.dll
+D:\project\재활의학 발판\BodyType_171208\BodyType\bin\Release\fr\ZedGraph.resources.dll
+D:\project\재활의학 발판\BodyType_171208\BodyType\bin\Release\hu\ZedGraph.resources.dll
+D:\project\재활의학 발판\BodyType_171208\BodyType\bin\Release\it\ZedGraph.resources.dll
+D:\project\재활의학 발판\BodyType_171208\BodyType\bin\Release\ja\ZedGraph.resources.dll
+D:\project\재활의학 발판\BodyType_171208\BodyType\bin\Release\pt\ZedGraph.resources.dll
+D:\project\재활의학 발판\BodyType_171208\BodyType\bin\Release\ru\ZedGraph.resources.dll
+D:\project\재활의학 발판\BodyType_171208\BodyType\bin\Release\sk\ZedGraph.resources.dll
+D:\project\재활의학 발판\BodyType_171208\BodyType\bin\Release\sv\ZedGraph.resources.dll
+D:\project\재활의학 발판\BodyType_171208\BodyType\bin\Release\tr\ZedGraph.resources.dll
+D:\project\재활의학 발판\BodyType_171208\BodyType\bin\Release\zh-cn\ZedGraph.resources.dll
+D:\project\재활의학 발판\BodyType_171208\BodyType\bin\Release\zh-tw\ZedGraph.resources.dll
+D:\project\재활의학 발판\BodyType_171208\BodyType\obj\Release\BodyType.csprojResolveAssemblyReference.cache
+D:\project\재활의학 발판\BodyType_171208\BodyType\obj\Release\BodyType.HistForm.resources
+D:\project\재활의학 발판\BodyType_171208\BodyType\obj\Release\BodyType.MainForm.resources
+D:\project\재활의학 발판\BodyType_171208\BodyType\obj\Release\BodyType.Properties.Resources.resources
+D:\project\재활의학 발판\BodyType_171208\BodyType\obj\Release\BodyType.csproj.GenerateResource.Cache
+D:\project\재활의학 발판\ValanceBoard ver1.0.1\BodyType\bin\Release\BodyType.exe.config
+D:\project\재활의학 발판\ValanceBoard ver1.0.1\BodyType\obj\Release\BodyType.exe
+D:\project\재활의학 발판\ValanceBoard ver1.0.1\BodyType\obj\Release\BodyType.pdb
+D:\project\재활의학 발판\ValanceBoard ver1.0.1\BodyType\bin\Release\BodyType.exe
+D:\project\재활의학 발판\ValanceBoard ver1.0.1\BodyType\bin\Release\BodyType.pdb
+D:\project\재활의학 발판\ValanceBoard ver1.0.1\BodyType\bin\Release\InTheHand.Net.Personal.xml
+D:\project\재활의학 발판\ValanceBoard ver1.0.1\BodyType\bin\Release\ZedGraph.xml
+D:\project\재활의학 발판\ValanceBoard ver1.0.1\BodyType\bin\Release\de\ZedGraph.resources.dll
+D:\project\재활의학 발판\ValanceBoard ver1.0.1\BodyType\bin\Release\es\ZedGraph.resources.dll
+D:\project\재활의학 발판\ValanceBoard ver1.0.1\BodyType\bin\Release\fr\ZedGraph.resources.dll
+D:\project\재활의학 발판\ValanceBoard ver1.0.1\BodyType\bin\Release\hu\ZedGraph.resources.dll
+D:\project\재활의학 발판\ValanceBoard ver1.0.1\BodyType\bin\Release\it\ZedGraph.resources.dll
+D:\project\재활의학 발판\ValanceBoard ver1.0.1\BodyType\bin\Release\ja\ZedGraph.resources.dll
+D:\project\재활의학 발판\ValanceBoard ver1.0.1\BodyType\bin\Release\pt\ZedGraph.resources.dll
+D:\project\재활의학 발판\ValanceBoard ver1.0.1\BodyType\bin\Release\ru\ZedGraph.resources.dll
+D:\project\재활의학 발판\ValanceBoard ver1.0.1\BodyType\bin\Release\sk\ZedGraph.resources.dll
+D:\project\재활의학 발판\ValanceBoard ver1.0.1\BodyType\bin\Release\sv\ZedGraph.resources.dll
+D:\project\재활의학 발판\ValanceBoard ver1.0.1\BodyType\bin\Release\tr\ZedGraph.resources.dll
+D:\project\재활의학 발판\ValanceBoard ver1.0.1\BodyType\bin\Release\zh-cn\ZedGraph.resources.dll
+D:\project\재활의학 발판\ValanceBoard ver1.0.1\BodyType\bin\Release\zh-tw\ZedGraph.resources.dll
+D:\project\재활의학 발판\ValanceBoard ver1.0.1\BodyType\obj\Release\BodyType.csprojResolveAssemblyReference.cache
+D:\project\재활의학 발판\ValanceBoard ver1.0.1\BodyType\obj\Release\BodyType.HistForm.resources
+D:\project\재활의학 발판\ValanceBoard ver1.0.1\BodyType\obj\Release\BodyType.MainForm.resources
+D:\project\재활의학 발판\ValanceBoard ver1.0.1\BodyType\obj\Release\BodyType.Properties.Resources.resources
+D:\project\재활의학 발판\ValanceBoard ver1.0.1\BodyType\obj\Release\BodyType.csproj.GenerateResource.Cache
